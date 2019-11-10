@@ -190,6 +190,7 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+    <None Include="Resources\README.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Board_Study_Guide_new.txt" />
